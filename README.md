@@ -45,7 +45,7 @@ flask-docker-app
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/flask-docker-addition-app.git
+git clone  https://github.com/Muntazer72/docker_practice_python
 
 ### 2️⃣ Go to project folder
 
